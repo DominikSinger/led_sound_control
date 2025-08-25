@@ -1,0 +1,6 @@
+{
+  "name": "led-sound-control",
+  "version": "1.0.0",
+  "main": "frontend/server.js",
+  "dependencies": { "express": "*" }
+}
